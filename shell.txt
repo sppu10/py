@@ -26,7 +26,7 @@ print(marks)
 flag=1;
 while flag==1:
     print("\n--MENU--")
-    print("1. insertion Sort of the marks")
+    print("1. Shell Sort of the marks")
     print("2. Exit")
     ch=int(input("\n\nEnter your choice : "))
 
